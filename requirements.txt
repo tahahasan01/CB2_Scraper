@@ -1,0 +1,4 @@
+nodriver>=0.48.0
+uuid6>=2023.5.2
+pandas>=2.0.0
+aiofiles>=23.0.0
